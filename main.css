@@ -1,0 +1,30 @@
+header .nav {
+    background-color: #1b5e20;
+
+}
+
+.active-link {
+    color:  #689f38;
+    font-weight: bold;
+}
+nav .nav-wrapper .brand-logo {
+    font-family: 'Dancing Script', cursive !important;
+}
+
+.slides {
+    font-family: 'Dancing Script', cursive !important;
+}
+
+.sidenav {
+    font-family: 'Dancing Script', cursive !important;
+    text-emphasis-color:#1b5e20;
+}
+
+.card .btn {
+    font-size: x-small;
+    align-items: center;
+}
+.card-panel .h4{
+    font-family: 'Times New Roman' !important;
+}
+
